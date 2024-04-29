@@ -1,6 +1,7 @@
-![image](https://github.com/FarukCaluk/FarukCaluk/assets/134332855/e7e68d04-ce97-4424-b06c-cb6694790f43)
 
-### Hey there! I'm Faruk Čaluk!
+![star-wars-obi-wan-kenobi](https://github.com/FarukCaluk/FarukCaluk/assets/134332855/5396e518-85da-47c6-ab77-51bb9f14d99e)
+
+### I'm Faruk Čaluk!
 
 🎓 Currently pursuing a degree in software engineering, I'm on a relentless quest for knowledge, exploring the vast and ever-evolving world of technology.
 
