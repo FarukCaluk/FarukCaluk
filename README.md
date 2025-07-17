@@ -1,20 +1,15 @@
 
 ![star-wars-obi-wan-kenobi](https://github.com/FarukCaluk/FarukCaluk/assets/134332855/5396e518-85da-47c6-ab77-51bb9f14d99e)
 
-### I'm Faruk Čaluk!
+Hey, I'm Faruk Čaluk!
+🎓 I'm a software engineering student with a passion for learning and a drive to stay on top of the fast-paced world of tech.
 
-🎓 Currently pursuing a degree in software engineering, I'm on a relentless quest for knowledge, exploring the vast and ever-evolving world of technology.
+🥋 When I'm not coding, you’ll probably find me on the mats training in Taekwondo, Kickboxing, or Brazilian Jiu-Jitsu. These disciplines push me both physically and mentally — teaching focus, discipline, and resilience.
 
-🥋 Beyond the digital realm, you'll often find me on the mats, deeply engrossed in the disciplines of Taekwondo, Kickboxing, and Brazilian Jiu-Jitsu. These martial arts not only sharpen my physical prowess but also instill in me invaluable lessons of discipline and perseverance.
+💻 I enjoy working with a range of technologies — from C++ to React — and love building things that are both useful and meaningful. Whether it's a group project or something I'm exploring solo, I’m always looking for ways to grow and improve.
 
-💻 Equipped with a diverse arsenal of programming languages, ranging from C++ to React, I thrive on the thrill of discovering and implementing cutting-edge technologies in my projects.
+🚀 I regularly collaborate with friends on various tech projects, but I also value those late-night coding sessions where ideas turn into real solutions. You can check out some of what I’ve been working on over on GitHub.
 
-🚀 Collaborating with friends on shared endeavors fuels my creativity, but I also cherish the solitary journey of exploration and creation. You'll discover some of my endeavors showcased in the realms of code on my GitHub repositories.
-
-### How to Connect:
-
-🌐 Dive into my coding adventures on [GitHub](https://github.com/FarukCaluk?tab=repositories).
-
-📫 Have a question or a suggestion? Feel free to drop me a line via [email](farukcaluk12@gmail.com)!
-
-### Eager to embark on new challenges and ventures. Let's craft the future together! 🚀
+Let's Connect
+🌐 Explore my projects on GitHub
+📫 Have a question or just want to chat? Reach out at farukcaluk12@gmail.com
